@@ -1,0 +1,12 @@
+.vs/
+.idea/
+.vscode/
+
+draft/
+build/
+
+*.so
+*.pdb
+*.lib
+*.dll
+*.exe
